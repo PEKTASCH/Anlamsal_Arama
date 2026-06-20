@@ -1,0 +1,1 @@
+# Anlamsal-Arama-ve-Belge-Getirme-Sistemi-BM25-Sentence-BERT-ve-Multilingual-E5-
